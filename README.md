@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @dionisioedu
-- 👀 I’m interested in Software Development and Artificial Intelligence
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Artificial Intelligence projects
-- 📫 You can reach me on Twitter https://twitter.com/dionisiodev
+🚀 Senior Software Developer | AI Enthusiast | Tech Career Mentor
+
+Visit: [dionisio.dev](https://dionisio.dev)
 
 <!---
 dionisioedu/dionisioedu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
