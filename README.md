@@ -1,4 +1,4 @@
-🚀 Senior Software Developer | AI Enthusiast | Tech Career Mentor
+Senior Software Developer (C/C++) | Systems Architect
 
 Visit: [dionisio.dev](https://dionisio.dev)
 
